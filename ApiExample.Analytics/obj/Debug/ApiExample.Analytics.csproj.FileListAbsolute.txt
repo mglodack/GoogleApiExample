@@ -1,0 +1,6 @@
+C:\Users\P4D\Documents\Visual Studio 2012\Projects\ApiExample\ApiExample.Analytics\bin\Debug\ApiExample.Analytics.dll.config
+C:\Users\P4D\Documents\Visual Studio 2012\Projects\ApiExample\ApiExample.Analytics\bin\Debug\ApiExample.Analytics.dll
+C:\Users\P4D\Documents\Visual Studio 2012\Projects\ApiExample\ApiExample.Analytics\bin\Debug\ApiExample.Analytics.pdb
+C:\Users\P4D\Documents\Visual Studio 2012\Projects\ApiExample\ApiExample.Analytics\obj\Debug\ApiExample.Analytics.csprojResolveAssemblyReference.cache
+C:\Users\P4D\Documents\Visual Studio 2012\Projects\ApiExample\ApiExample.Analytics\obj\Debug\ApiExample.Analytics.dll
+C:\Users\P4D\Documents\Visual Studio 2012\Projects\ApiExample\ApiExample.Analytics\obj\Debug\ApiExample.Analytics.pdb
